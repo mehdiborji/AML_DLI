@@ -1,0 +1,73 @@
+﻿gene,avg_logFC,p_val,p_val_adj,Signature,,,gene,avg_logFC,p_val,p_val_adj,Signature,,,gene,avg_logFC,p_val,p_val_adj,Signature
+KRT86,2.787533396,0,0,Tumor-specific CD8 T cells,,,RARA,-1.017161878,3.17E-269,1.06E-264,Virus-specific CD8+ T cells,,,ADGRG1,2.457486643,0,0,CD4+ enriched in tumor specificities
+RDH10,2.251109741,0,0,Tumor-specific CD8 T cells,,,GADD45B,-1.020159953,1.84E-241,6.16E-237,Virus-specific CD8+ T cells,,,CADM1,2.335060775,0,0,CD4+ enriched in tumor specificities
+TYMS,2.155442162,0,0,Tumor-specific CD8 T cells,,,C1orf21,-1.082633678,2.38E-141,7.99E-137,Virus-specific CD8+ T cells,,,RDH10,2.284443209,0,0,CD4+ enriched in tumor specificities
+HMOX1,2.126914736,0,0,Tumor-specific CD8 T cells,,,AOAH,-1.104377499,1.01E-99,3.38E-95,Virus-specific CD8+ T cells,,,HMOX1,2.17078999,0,0,CD4+ enriched in tumor specificities
+GNG4,2.044225166,0,0,Tumor-specific CD8 T cells,,,MATK,-1.147629494,1.11E-207,3.71E-203,Virus-specific CD8+ T cells,,,GNLY,2.165378014,2.23E-288,7.47E-284,CD4+ enriched in tumor specificities
+CXCL13,1.99960465,0,0,Tumor-specific CD8 T cells,,,SATB1,-1.203581963,9.15E-221,3.07E-216,Virus-specific CD8+ T cells,,,HAVCR2,2.126406945,0,0,CD4+ enriched in tumor specificities
+AFAP1L2,1.804323147,0,0,Tumor-specific CD8 T cells,,,MBP,-1.236393024,0,0,Virus-specific CD8+ T cells,,,PRF1,2.093660001,0,0,CD4+ enriched in tumor specificities
+ACP5,1.78000315,0,0,Tumor-specific CD8 T cells,,,ANTXR2,-1.243363428,9.13E-145,3.06E-140,Virus-specific CD8+ T cells,,,SLC27A2,1.908331963,0,0,CD4+ enriched in tumor specificities
+MYO1E,1.756174868,1.85E-288,6.19E-284,Tumor-specific CD8 T cells,,,RORA,-1.256283197,1.44E-231,4.83E-227,Virus-specific CD8+ T cells,,,NKG7,1.842433497,0,0,CD4+ enriched in tumor specificities
+LAYN,1.738202345,0,0,Tumor-specific CD8 T cells,,,CCR7,-1.265116844,0,0,Virus-specific CD8+ T cells,,,CCL4,1.78242516,0,0,CD4+ enriched in tumor specificities
+TNS3,1.728386017,2.50E-274,8.40E-270,Tumor-specific CD8 T cells,,,ANXA1,-1.269591083,0,0,Virus-specific CD8+ T cells,,,GZMA,1.739151252,0,0,CD4+ enriched in tumor specificities
+TNFSF4,1.723108611,0,0,Tumor-specific CD8 T cells,,,BACH2,-1.318872683,1.59E-273,5.33E-269,Virus-specific CD8+ T cells,,,SLC1A4,1.73592232,2.69E-277,9.03E-273,CD4+ enriched in tumor specificities
+AKAP5,1.704832641,0,0,Tumor-specific CD8 T cells,,,GLUL,-1.327884647,1.06E-236,3.56E-232,Virus-specific CD8+ T cells,,,GZMK,1.711062254,0,0,CD4+ enriched in tumor specificities
+HAVCR2,1.661931261,0,0,Tumor-specific CD8 T cells,,,TNFSF14,-1.330285991,1.83E-215,6.13E-211,Virus-specific CD8+ T cells,,,LAG3,1.674817973,0,0,CD4+ enriched in tumor specificities
+ENTPD1,1.657229907,0,0,Tumor-specific CD8 T cells,,,AUTS2,-1.416932251,1.02E-228,3.41E-224,Virus-specific CD8+ T cells,,,NCDN,1.576181081,1.10E-302,3.67E-298,CD4+ enriched in tumor specificities
+SLC2A8,1.592202895,0,0,Tumor-specific CD8 T cells,,,PERP,-1.437004665,0,0,Virus-specific CD8+ T cells,,,CST7,1.46529472,0,0,CD4+ enriched in tumor specificities
+AC243829.4,1.579277373,0,0,Tumor-specific CD8 T cells,,,EPHA4,-1.537998697,8.01E-189,2.69E-184,Virus-specific CD8+ T cells,,,CXCR6,1.438960908,0,0,CD4+ enriched in tumor specificities
+ZBED2,1.572500169,0,0,Tumor-specific CD8 T cells,,,TCF7,-1.589936811,0,0,Virus-specific CD8+ T cells,,,UBE2E3,1.2900637,2.71E-290,9.11E-286,CD4+ enriched in tumor specificities
+MCM5,1.531211987,0,0,Tumor-specific CD8 T cells,,,SELL,-1.622001601,5.50E-189,1.85E-184,Virus-specific CD8+ T cells,,,KIAA0319L,1.272303219,2.40E-261,8.06E-257,CD4+ enriched in tumor specificities
+CAV1,1.520917245,0,0,Tumor-specific CD8 T cells,,,MYC,-1.642719984,5.47E-159,1.83E-154,Virus-specific CD8+ T cells,,,CHST12,1.261365174,0,0,CD4+ enriched in tumor specificities
+GOLIM4,1.484157019,8.97E-213,3.01E-208,Tumor-specific CD8 T cells,,,IL7R,-1.916913934,0,0,Virus-specific CD8+ T cells,,,PDCD1,1.252609438,0,0,CD4+ enriched in tumor specificities
+VCAM1,1.463531862,0,0,Tumor-specific CD8 T cells,,,CD300A,-1.923637451,3.88E-283,1.30E-278,Virus-specific CD8+ T cells,,,SLA2,1.203008399,1.01E-277,3.39E-273,CD4+ enriched in tumor specificities
+PON2,1.44666638,9.58E-293,3.21E-288,Tumor-specific CD8 T cells,,,ITGA5,-2.002996655,1.12E-237,3.74E-233,Virus-specific CD8+ T cells,,,PTMS,1.198692817,0,0,CD4+ enriched in tumor specificities
+MTSS1,1.399193134,0,0,Tumor-specific CD8 T cells,,,GPR183,-2.026905124,0,0,Virus-specific CD8+ T cells,,,CCL5,1.198355073,0,0,CD4+ enriched in tumor specificities
+CD38,1.343692172,0,0,Tumor-specific CD8 T cells,,,KLF3,-2.280854987,0,0,Virus-specific CD8+ T cells,,,RHBDF2,1.184060418,8.48E-174,2.84E-169,CD4+ enriched in tumor specificities
+MS4A6A,1.340638727,0,0,Tumor-specific CD8 T cells,,,S1PR1,-2.516754625,0,0,Virus-specific CD8+ T cells,,,CD27,1.17999039,0,0,CD4+ enriched in tumor specificities
+TOX2,1.325553691,3.46E-222,1.16E-217,Tumor-specific CD8 T cells,,,,,,,,,,IGFLR1,1.165177816,1.47E-268,4.92E-264,CD4+ enriched in tumor specificities
+CSF1,1.307418821,4.17E-227,1.40E-222,Tumor-specific CD8 T cells,,,,,,,,,,CTSW,1.138939338,2.80E-142,9.39E-138,CD4+ enriched in tumor specificities
+GALNT2,1.30705988,0,0,Tumor-specific CD8 T cells,,,,,,,,,,GGA2,1.078353788,1.94E-244,6.52E-240,CD4+ enriched in tumor specificities
+FXYD2,1.306917186,2.90E-120,9.74E-116,Tumor-specific CD8 T cells,,,,,,,,,,APOBEC3G,1.018921703,2.71E-294,9.07E-290,CD4+ enriched in tumor specificities
+PLPP1,1.303412174,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+LMCD1,1.279380309,7.91E-215,2.65E-210,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+MYL6B,1.272331736,7.02E-257,2.36E-252,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+LAG3,1.258756326,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HLA-DRA,1.25714647,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+IGFLR1,1.255670648,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CCDC50,1.240690888,7.44E-182,2.49E-177,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CD27,1.233091896,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+KIAA1324,1.229974839,5.09E-271,1.71E-266,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CDKN2A,1.226923799,1.36E-242,4.56E-238,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CD70,1.220048716,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+ABHD6,1.204736708,9.37E-201,3.14E-196,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CTLA4,1.183326931,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+PDCD1,1.181586505,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+GEM,1.174205174,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+NUSAP1,1.167439319,2.14E-273,7.17E-269,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+TOX,1.162922383,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CXCR6,1.159615457,8.85E-280,2.97E-275,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+NMB,1.154944308,2.28E-179,7.66E-175,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HOPX,1.139465174,3.68E-246,1.23E-241,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CLIC3,1.13679439,1.07E-164,3.60E-160,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+INPP5F,1.134360649,2.04E-287,6.84E-283,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+SNAP47,1.123479432,2.77E-250,9.28E-246,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+TSHZ2,1.115501418,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HLA-DMA,1.11390903,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+SIT1,1.112726735,4.23E-256,1.42E-251,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HLA-DRB1,1.110296351,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+TUBB,1.106303696,1.54E-140,5.18E-136,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+PYCARD,1.086766852,1.66E-215,5.58E-211,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+ADGRG1,1.083457585,7.55E-214,2.53E-209,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HLA-DQA1,1.082080048,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+PRF1,1.078637206,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HLA-DPA1,1.075967448,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+PTMS,1.071661863,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CKS1B,1.060237579,5.36E-142,1.80E-137,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+HIPK2,1.049170081,8.07E-154,2.71E-149,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+CHST12,1.037208651,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+LSP1,1.036849405,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+FAM3C,1.034687412,7.76E-184,2.60E-179,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+SLC1A4,1.023173656,3.95E-122,1.32E-117,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+NUDT1,1.003708412,3.11E-176,1.04E-171,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
+DNPH1,1.000665255,0,0,Tumor-specific CD8 T cells,,,,,,,,,,,,,,
